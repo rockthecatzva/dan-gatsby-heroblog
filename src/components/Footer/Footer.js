@@ -18,7 +18,7 @@ const Footer = props => {
 
           :global(ul) {
             list-style: none;
-            text-align: center;
+            text-align: right;
             padding: 0;
 
             :global(li) {
